@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **CSS Frameworks,Js**
+- 🌱 I’m currently learning **CSS Frameworks,Js,Java,Linux**
 
 - 📫 How to reach me **uditsharmaswm2004@gmail.com**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditsharma04&show_icons=true&locale=en" alt="uditsharma04" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditsharma04&theme=dark" alt="uditsharma04" /></p>
