@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udit Sharma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **Js,node-Js,Strapi**
+- 🌱 I’m currently learning **CSS Frameworks,Js**
 
 - 📫 How to reach me **uditsharmaswm2004@gmail.com**
 
