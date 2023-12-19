@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/hellouditt" target="blank"><img src="https://img.shields.io/twitter/follow/hellouditt?logo=twitter&style=for-the-badge" alt="hellouditt" /></a> </p>
 
+- Resume : https://resume.io/r/NbPCqmFyM
+
 - 🌱 I’m currently learning **Js,Java,Linux**
 
 - 📫 How to reach me **uditsharmaswm2004@gmail.com**
