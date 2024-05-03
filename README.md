@@ -28,11 +28,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uditsharma04&show_icons=true&locale=en&layout=compact" alt="uditsharma04" /></p>
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditsharma04&show_icons=true&locale=en" alt="uditsharma04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditsharma04&theme=default" alt="uditsharma04" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditsharma04&" alt="uditsharma04" /></p>
 
 
 [![An image of @uditsharma04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uditsharma04)](https://holopin.io/@uditsharma04)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditsharma04&show_icons=true&locale=en" alt="uditsharma04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditsharma04&theme=default" alt="uditsharma04" /></p>
