@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
 
-- 🤝 I’m looking for help with **React , Next Js**
+- 🤝 I’m looking for help with **MongoDB**
 
 - 📫 How to reach me **uditsharmaswm2004@gmail.com**
 
