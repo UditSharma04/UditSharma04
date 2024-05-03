@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/hellouditt" target="blank"><img src="https://img.shields.io/twitter/follow/hellouditt?logo=twitter&style=for-the-badge" alt="hellouditt" /></a> </p>
-- Resume : https://resume.io/r/NbPCqmFyM
+
+-  Resume : https://resume.io/r/NbPCqmFyM**
+
 - 🔭 I’m currently working on **Spotify Clone**
 
 - 🌱 I’m currently learning **React , Next Js**
