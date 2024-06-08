@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hellouditt" target="blank"><img src="https://img.shields.io/twitter/follow/hellouditt?logo=twitter&style=for-the-badge" alt="hellouditt" /></a> </p>
 
--  Resume : https://resume-personal.tiiny.site**
+-  Resume : https://apricot-cyndie-25.tiiny.site/**
 
 - 🔭 I’m currently working on **Spotify Clone**
 
