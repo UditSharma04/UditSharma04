@@ -5,9 +5,9 @@
 
 -  Resume : https://resume-udit.tiiny.site/
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Major Web Dev Projects**
 
-- 🌱 I’m currently learning **React , Next Js**
+- 🌱 I’m currently learning **How to code in a Professional way **
 
 - 👯 I’m looking to collaborate on **Full Stack Web Dev Projects**
 
