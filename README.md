@@ -43,15 +43,26 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditsharma04&show_icons=true&locale=en&theme=dark" alt="uditsharma04" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uditsharma04&show_icons=true&locale=en&theme=dark" alt="uditsharma04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditsharma04&theme=dark" alt="uditsharma04" /></p>
+
+
+
+
 
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
+## 🔥 Streak 🔥
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditsharma04&theme=dark" alt="uditsharma04" /></p>
+
+
+### 🏆 Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditsharma04" alt="uditsharma04" /></a> </p>
 
 [![An image of @uditsharma04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uditsharma04)](https://holopin.io/@uditsharma04)
 
